@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @A-SKY-007
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning servlet
-- 📫 reach me casualuse66@gmail.com
+- 📫 reach me sahaakash665@gmail.com
 
 <!---
 A-SKY-007/A-SKY-007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
