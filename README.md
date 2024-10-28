@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @A-SKY-007
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning servlet
+- 👀 I’m interested to build website(Frontend & Backend) as well as android App
+- 🌱 I’m currently learning Android Development
 - 📫 reach me sahaakash665@gmail.com
 
 <!---
